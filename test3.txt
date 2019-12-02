@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 6CB4-4813
+
+ Directory of C:\Users\saiteja\Desktop\Demo 1
+
+12/02/2019  11:37 PM    <DIR>          .
+12/02/2019  11:37 PM    <DIR>          ..
+12/02/2019  11:28 PM                29 test1.txt
+12/02/2019  11:28 PM               406 test2.html
+12/02/2019  11:37 PM                 0 test3.txt
+               3 File(s)            435 bytes
+               2 Dir(s)  22,959,427,584 bytes free
